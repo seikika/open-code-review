@@ -1,0 +1,90 @@
+{
+  "evidence": {
+    "repo-hygiene": {
+      "repository:seikika/open-code-review": {
+        "has-codeowners": [
+          "e92c3922"
+        ]
+      }
+    }
+  },
+  "format": "seikika-report/v1",
+  "portal": "open-code-review",
+  "results": {
+    "docs": {
+      "doc:AGENTS.md": {
+        "level": "bronze"
+      },
+      "doc:ASSURANCE_CASE.md": {
+        "level": "bronze"
+      },
+      "doc:CLAUDE.md": {
+        "level": "bronze"
+      },
+      "doc:CODE_OF_CONDUCT.md": {
+        "level": "bronze"
+      },
+      "doc:CONTRIBUTING.md": {
+        "level": "bronze"
+      },
+      "doc:GOVERNANCE.md": {
+        "level": "bronze"
+      },
+      "doc:README.md": {
+        "level": "bronze"
+      },
+      "doc:ROADMAP.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/CONTRIBUTING.ja-JP.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/CONTRIBUTING.ko-KR.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/CONTRIBUTING.ru-RU.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/CONTRIBUTING.tr-TR.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/CONTRIBUTING.vi-VN.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/CONTRIBUTING.zh-CN.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/README.fr-FR.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/README.ja-JP.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/README.ko-KR.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/README.ru-RU.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/README.tr-TR.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/README.vi-VN.md": {
+        "level": "bronze"
+      },
+      "doc:docs/i18n/README.zh-CN.md": {
+        "level": "bronze"
+      }
+    },
+    "repo-hygiene": {
+      "repository:seikika/open-code-review": {
+        "failing": {
+          "codeowners-catch-all": 0,
+          "has-codeowners": 1,
+          "owners-are-teams": 0
+        },
+        "level": "none"
+      }
+    }
+  }
+}
